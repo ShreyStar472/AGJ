@@ -50,8 +50,6 @@ Explore some AGJ programs in the [`examples`](examples/) folder:
 | [User Input](examples/user_input.agj) | Taking user input |
 | [Comments](examples/comments.agj) | Writing comments |
 | [Multiline Output](examples/multiline_output.agj) | Multiline text |
-| [Calculator](examples/calculator.agj) | Basic calculator |
-
 
 ---
 
