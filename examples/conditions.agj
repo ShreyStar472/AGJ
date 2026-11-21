@@ -1,0 +1,13 @@
+a = 10;
+
+[
+    if (a == 10) {
+        show("The number is 10");
+    };
+    elif (a == 5) {
+        show("The number is 5");
+    };
+    else () {
+        show("The number is something else");
+    };
+];
