@@ -36,6 +36,23 @@ https://agjstudio.com/AGJ.html
 
 GitHub: https://github.com/ShreyStar472
 
+## Example Programs
+
+Explore some AGJ programs in the [`examples`](examples/) folder:
+
+| Example | Description |
+|---|---|
+| [Hello World](examples/hello_world.agj) | First AGJ program |
+| [Variables](examples/variables.agj) | Variables and data types |
+| [Mathematics](examples/mathematics.agj) | Arithmetic operations |
+| [Conditions](examples/conditions.agj) | Conditional statements |
+| [Loops](examples/loops.agj) | Repetition |
+| [User Input](examples/user_input.agj) | Taking user input |
+| [Comments](examples/comments.agj) | Writing comments |
+| [Multiline Output](examples/multiline_output.agj) | Multiline text |
+| [Calculator](examples/calculator.agj) | Basic calculator |
+
+
 ---
 
 *AGJ — App Generator Ka Jalva*
