@@ -1,0 +1,7 @@
+/ This is a single-line comment
+
+name = "AGJ";
+
+# Comments can also start with a hash
+
+show("Welcome to", name);
