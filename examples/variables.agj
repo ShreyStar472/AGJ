@@ -1,0 +1,11 @@
+name = "AGJ";
+age = 1;
+version = 1.0;
+
+show("Language:", name);
+show("Age:", age);
+show("Version:", version);
+
+type(name);
+type(age);
+type(version);
